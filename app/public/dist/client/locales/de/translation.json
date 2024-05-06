@@ -135,6 +135,7 @@
     "MISTY_SURGE": "Nebel-Erzeuger",
     "SKY_ATTACK": "Himmelsfeger",
     "ILLUSION": "Illusion",
+    "SHELTER": "Refugium",
     "SMOG": "Smog",
     "SLUDGE": "Schlammbad",
     "SLUDGE_WAVE": "Schlammwelle",
@@ -1640,7 +1641,8 @@
     "BIG_NUGGET": "Riesennugget",
     "INCENSE": "Rosenrauch",
     "EXP_SHARE": "EP-Teiler",
-    "METEORITE": "Meteorit"
+    "METEORITE": "Meteorit",
+    "BERRY_JUICE": "Beerensaft"
   },
   "item_description": {
     "FOSSIL_STONE": "Ein Fossil eines Pokémon, das in prähistorischen Zeiten lebte",
