@@ -321,6 +321,10 @@
     "FACADE": "Fassade",
     "DREAM_EATER": "Traumfresser",
     "SPARK": "Funkensprung",
+    "CRUNCH": "Knirscher",
+    "CROSS_POISON": "Giftstreich",
+    "DOUBLE_EDGE": "Risikotackle",
+    "FIRE_FANG": "Feuerzahn",
     "AURA_WHEEL_HANGRY": "Aura-Rad"
   },
   "pkm": {
