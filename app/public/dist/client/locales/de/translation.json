@@ -1078,7 +1078,14 @@
     "DROWZEE": "Traumato",
     "HYPNO": "Hypno",
     "WATTREL": "Voltrel",
-    "KILOWATTREL": "Voltrean"
+    "KILOWATTREL": "Voltrean",
+    "FUECOCO": "Krokel",
+    "CROCALOR": "Lokroko",
+    "SKELEDIRGE": "Skelokrok",
+    "TANGELA": "Tangela",
+    "TANGROWTH": "Tangoloss",
+    "PSYDUCK": "Enton",
+    "GOLDUCK": "Entoron"
   },
   "ability_description": {
     "SOFT_BOILED": "Heilt alle Statuseffekte und gewährt jedem Verbündeten [20,40,80,SP] SHIELD",
