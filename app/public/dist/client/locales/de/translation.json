@@ -325,6 +325,11 @@
     "CROSS_POISON": "Giftstreich",
     "DOUBLE_EDGE": "Risikotackle",
     "FIRE_FANG": "Feuerzahn",
+    "ICE_FANG": "Eiszahn",
+    "THUNDER_FANG": "Donnerzahn",
+    "TAIL_WHIP": "Rutenschlag",
+    "PSYSHIELD_BASH": "Barrierenstoß",
+    "QUIVER_DANCE": "Falterreigen",
     "AURA_WHEEL_HANGRY": "Aura-Rad"
   },
   "pkm": {
